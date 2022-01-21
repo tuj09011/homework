@@ -1,2 +1,2 @@
 # homework
-Homework 1
+Hello!
